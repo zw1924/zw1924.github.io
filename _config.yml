@@ -77,7 +77,8 @@ theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-type: git
+deploy:
+  type: git
   repo: git@github.com:zw1924/zw1924.github.io.git
   branch: master
 
